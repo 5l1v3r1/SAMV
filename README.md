@@ -1,7 +1,7 @@
 Short Description:
 ==================
 Silent Assassin valider is an Open Source Mail Valider
-Created BY :ABDO10 - abdo10hacker[at]hotmail.com
+Created BY :ABDO10 - defacerdz[at]gmail.com
 Team :Silent Hackers Team 
 Version :1.0
 May Well it helps u To Validate Many Mails From Many Ways...
