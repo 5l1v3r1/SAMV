@@ -14,7 +14,6 @@ cout<< "\t\t\t======================================="<<endl;
 cout<<endl;
 
 cout<< "#~PrograMmer:ABDO10\n=============" <<endl;
-cout<< "#~Team:Silent Hackers Team\n=======" <<endl;
 cout<< "#~Tool:Mail Valdier\n=======" <<endl;
 cout<< "#~CopyRight(C):2018-2019 Reserved\n===============" <<endl;
 cout<<endl<<endl;
@@ -41,15 +40,12 @@ case 3:
       system("./pkgs/file");
    break;
 case 4:
-cout<< "\n ProgramMer: ABDO10 - abdo10hacker@hotmail.com"<<endl;
-cout<< " Team: Silent Hackers Team"<<endl;
+cout<< "\n ProgramMer: ABDO10 "<<endl;
 cout<< " Tool: Silent Assassin Mail Valider [SAMV] "<<endl;
 cout<< " Version: 1.0"<<endl; 
 cout<<"\n Where U Can Find me on:"<<endl;
-cout<< "  Hotmail: abdo10hacker@hotmail.com" <<endl;
-cout<< "  Gmail: abdelkader.mahmoudi.44@gmail.com" <<endl;
-cout<< "  Mail.Ru: abdo10hacker@bk.ru" <<endl;
-cout<< "  GitHub: /ABDO10HACKER" <<endl;
+cout<< "  gmail: defacerdz@gmail.com" <<endl;
+cout<< "  GitHub: /ABDO10DZ" <<endl;
 cout<< "  Facebook: /abdo10hacker" <<endl; 
 cout<<endl;
 break;
